@@ -6,7 +6,7 @@ long-arm experience,giving players a new way to enjoy the game.
 
 👨‍💻 Credits
 Made by:
-- **tiamGFST**
+- **BowserTD**
 - **ESKCALE**
 - **Vlator**
 
