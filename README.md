@@ -20,5 +20,4 @@ This is a community-made Gorilla Tag mod and is not affiliated with Another Axio
 
 **Enjoy BetterLong-Arms!**
 
-![BetterLong-Arms](<img width="1849" height="857" alt="Screenshot 2026-11-10 214622" src="https://github.com/user-attachments/assets/7c16592b-ffd9-47fd-a08a-af5e28436132" />
-)
+(<img width="1849" height="857" alt="Screenshot 2026-11-10 214622" src="https://github.com/user-attachments/assets/213b4a33-642e-482c-acbf-a14aed80b2d5" />)
