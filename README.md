@@ -19,7 +19,7 @@ BetterLong-Arms was created through the work and contributions of:
 - **ESKCALE**
 - **Vlator**
 
-A huge thank-you to everyone who contributed to the development of this project!
+A huge thank-you to everyone who contributed to the development of this project to help make possible!
 
 ## 📦 Installation Guide
 
@@ -36,7 +36,7 @@ Follow these steps to get started with BetterLong-Arms:
 ## 📥 Downloads
 
 You can find the latest version of BetterLong-Arms in the repository's Releases section.
-Always download from the official repository to ensure you're getting the correct version.
+Always download from the official repository to ensure you're getting the correct version (AKA this repository).
 
 ## 🔄 Updates & Improvements
 
