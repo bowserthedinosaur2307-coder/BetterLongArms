@@ -1,18 +1,14 @@
 
 # 🦍 BetterLong-Arms
 
-**BetterLong-Arms** is a Gorilla Tag modification designed to enhance and improve the long-arm experience. The mod gives players an alternative way to experience Gorilla Tag's movement system, offering a different feel when exploring maps, climbing, and moving around the environment.
-
-Whether you're looking for a different movement experience or simply want to try something new in Gorilla Tag, BetterLong-Arms aims to provide an enjoyable alternative to the standard gameplay experience.
+**BetterLong-Arms** is a Gorilla Tag modification designed to enhance and improve the long-arm experience. The mod gives players an alternative way to experience Gorilla Tag's movement system, offering a different feel when exploring maps, climbing, and moving around the environment. Whether you're looking for a different movement experience or simply want to try something new in Gorilla Tag, BetterLong-Arms aims to provide an enjoyable alternative to the standard gameplay experience.
 
 ---
 
 ## ✨ About the Mod
 
 BetterLong-Arms focuses on the long-arm aspect of Gorilla Tag, changing the way players experience their in-game arm reach.
-
 The goal of this project is to provide a simple and enjoyable modification while keeping the familiar Gorilla Tag experience recognizable.
-
 We hope players enjoy trying out BetterLong-Arms as much as we enjoyed creating it!
 
 ## 👨‍💻 Development Team
@@ -40,28 +36,22 @@ Follow these steps to get started with BetterLong-Arms:
 ## 📥 Downloads
 
 You can find the latest version of BetterLong-Arms in the repository's Releases section.
-
 Always download from the official repository to ensure you're getting the correct version.
 
 ## 🔄 Updates & Improvements
 
 This repository will be used to publish updates, improvements, and potential fixes for BetterLong-Arms.
-
 Make sure to check back for new releases so you don't miss any updates!
 
 ## ⚠️ Disclaimer
 
 BetterLong-Arms is a community-created modification for Gorilla Tag.
-
 This project is **not affiliated with, endorsed by, or officially supported by Another Axiom**.
-
 Use modifications only in environments where they are permitted. Please respect Gorilla Tag's rules and other players.
 
 ## ❤️ Thank You!
 
 Thank you for checking out BetterLong-Arms!
-
 We appreciate everyone who downloads, tests, shares, and supports this project. Feedback and suggestions are always appreciated.
-
 **Enjoy BetterLong-Arms! 🦍**
 <img width="1849" height="857" alt="Screenshot 2026-11-10 214622" src="https://github.com/user-attachments/assets/213b4a33-642e-482c-acbf-a14aed80b2d5" />
